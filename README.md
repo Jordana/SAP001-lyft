@@ -1,6 +1,6 @@
 # Lyft
 
-* **Curso:** _Cirando um site interativo com javascript_
+* **Curso:** _Criando um site interativo com javascript_
 * **Unidade:** _Layout da web com HTML & CSS_
 
 ***
